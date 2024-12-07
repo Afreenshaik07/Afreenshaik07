@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afreen Shaik</h1>
 <h3 align="center">"Aspiring Data Science Enthusiast🎓| Embracing Learning and Growth 📈| Driven by Curiosity, Passion, and a Love for Learning" 🎖|</h3>
-<>img align="right" alt="coding" width="400" src=https://img.freepik.com/premium-vector/work-home-freelance-girl-with-laptop-hand-drawn-illustration_532537-971.jpg>
+<>img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/work-home-freelance-girl-with-laptop-hand-drawn-illustration_532537-971.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afreenshaik07&label=Profile%20views&color=0e75b6&style=flat" alt="afreenshaik07" /> </p>
 
 - 📫 How to reach me **afreenshaik0711@gmail.com**
