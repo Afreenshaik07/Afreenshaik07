@@ -1,3 +1,4 @@
+![logo](https://github.com/Afreenshaik07/Afreenshaik07/blob/main/Background.jpg)
 <h1 align="center">Hi 👋, I'm Afreen Shaik</h1>
 <h3 align="center">"Aspiring Data Science Enthusiast🎓| Embracing Learning and Growth 📈| Driven by Curiosity, Passion, and a Love for Learning" 🎖|</h3>
 <p align="left"> <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" /> </p>
